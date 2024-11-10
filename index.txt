@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/SvitOrSmt/robotek/refs/heads/main/text2.txt
+https://raw.githubusercontent.com/SvitOrSmt/robotek/refs/heads/main/test.txt

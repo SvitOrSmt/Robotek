@@ -1,4 +1,4 @@
-move x servo 45
+move x servo 46
 delay 1000
 move x servo 90
 delay 1000
