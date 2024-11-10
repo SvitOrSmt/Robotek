@@ -1,0 +1,10 @@
+move x servo 45
+delay 1000
+move x servo 90
+delay 1000
+move x servo 135
+delay 1000
+move x servo 180
+delay 1000
+move x servo 90
+
